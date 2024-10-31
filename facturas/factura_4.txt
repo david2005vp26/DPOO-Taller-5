@@ -1,0 +1,9 @@
+Cliente: Cecilia Rodriguez
+Dirección: Calle 45-89
+----------------
+casera
+23000
+----------------
+Precio Neto: 23000
+IVA: 4370
+Precio Total: 27370

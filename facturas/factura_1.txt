@@ -1,0 +1,9 @@
+Cliente: Camila Parra
+Dirección: Calle 17-83
+----------------
+costeña
+20000
+----------------
+Precio Neto: 20000
+IVA: 3800
+Precio Total: 23800

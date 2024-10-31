@@ -1,0 +1,9 @@
+Cliente: David Parra
+Dirección: Calle 17-24
+----------------
+corral queso
+16000
+----------------
+Precio Neto: 16000
+IVA: 3040
+Precio Total: 19040

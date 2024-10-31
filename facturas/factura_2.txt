@@ -1,0 +1,9 @@
+Cliente: Paula Sepulveda
+Dirección: Calle 197-23
+----------------
+corral
+14000
+----------------
+Precio Neto: 14000
+IVA: 2660
+Precio Total: 16660
